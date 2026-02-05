@@ -31,7 +31,7 @@ import ssnLogo from "./assets/education_logo/SSN.png";
 // =======================
 import weatherLogo from "./assets/work_logo/weather.png";
 import todoLogo from "./assets/work_logo/todo.png";
-import landingLogo from "./assets/work_logo/Landing_Page.png";
+import landingLogo from "./assets/work_logo/landing_Page.png";
 
 // =======================
 // Skills Data
