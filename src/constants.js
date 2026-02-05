@@ -31,7 +31,7 @@ import ssnLogo from "./assets/education_logo/SSN.png";
 // =======================
 import weatherLogo from "./assets/work_logo/weather.png";
 import todoLogo from "./assets/work_logo/todo.png";
-import landingLogo from "./assets/work_logo/landing_Page.png";
+import landingLogo from "./assets/work_logo/landing_page.png";
 
 // =======================
 // Skills Data
@@ -135,7 +135,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Landing Page",
+    title: "landingPage",
     description:
       "A clean and responsive landing page built using HTML and CSS, focusing on modern UI design and layout structure.",
     image: landingLogo,
